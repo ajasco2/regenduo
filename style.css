@@ -1,0 +1,13 @@
+.hover-button:hover{
+   transform: scale(1.1);
+   /* background-color: rgb(12, 82, 12); */
+   transition: 1s ease;
+
+}
+.bg-active{
+    color: white;
+    background-color: #315331;
+}
+.text-active{
+    color: #315331;
+}
